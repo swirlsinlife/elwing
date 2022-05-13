@@ -1,5 +1,5 @@
 body {
-    background-color: darkseagreen;
+    background-color:papayawhip;
     background-image: url("moon.jpg");
     scale: 10px;
     height: 2000px;
@@ -11,7 +11,7 @@ body {
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 80px;
-    color: goldenrod;
+    color:darkblue;
     text-align: center;
 }
 ul {
