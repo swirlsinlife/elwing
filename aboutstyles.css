@@ -1,17 +1,30 @@
 body {
-    background-color: darkseagreen;
-    background-image: url("mountains\ copy.jpg");
-    scale: 10px;
     height: 2000px;
+    
+}
+.about-bg {
+    background-image: url("mountains\ copy.jpg");
     background-position: center;
     background-size: cover;
+    scale: 10px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: darkslategray;
+    text-align: center;
 }
 
+.postcard-bg {
+    background-color:cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color:cornflowerblue;
+    text-align: center;
+}
 /*changing paragraph element property values */
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 80px;
-    color: darkslategray;
     text-align: center;
 }
 ul {
